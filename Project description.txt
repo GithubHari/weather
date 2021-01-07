@@ -1,0 +1,5 @@
+This is a very simple project to demonstrate my javascript and API knowledge.
+I have used very little amount of HTML and CSS here
+I get the weather details from https://openweathermap.org/api
+which acts as the database from which my server fetches the data from
+
